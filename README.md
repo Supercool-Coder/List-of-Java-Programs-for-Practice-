@@ -28,45 +28,88 @@ Solution :- ![image](https://user-images.githubusercontent.com/70787564/21373621
 
 Question 5 --> Write a Java program that takes five numbers as input to calculate and print the average of the numbers ?
 
+Solution :- ![image](https://user-images.githubusercontent.com/70787564/213740550-8746c98e-824e-4e00-b010-a3a0c01d4400.png)
+
 Question 6 --> Write a Java program to swap two variables ?
+
+Solution :- 
 
 Question 7 --> Write a Java program to convert a decimal number to binary numbers ?
 
+Solution :- 
+
 Question 8 --> Write a Java program to convert a binary number to decimal number ?
+
+Solution :- 
 
 Question 9 --> Write a Java program to check whether Java is installed on your computer or not ?
 
+Solution :- 
+
 Question 10 --> Write a Java program and compute the sum of the digits of an integer ?
+
+Solution :- 
 
 Question 11 --> Write a Java program to compare two numbers ?
 
+Solution :- 
+
 Question 12 --> Write a Java program to count the letters, spaces, numbers and other characters of an input string ?
+
+Solution :- 
 
 Question 13 --> Write a Java program to print the ascii value of a given character ?
 
+Solution :- 
+
 Question 14 --> Write a Java program that accepts an integer (n) and computes the value of n+nn+nnn ?
+
+Solution :- 
 
 Question 15 --> Write a Java program to display the system time ?
 
+Solution :- 
+
 Question 16 --> Write a Java program to print the odd numbers from 1 to 20 ?
+
+Solution :- 
 
 Question 17 --> Write a Java program to print the even numbers from 1 to 20 ?
 
+Solution :- 
+
 Question 18 --> Write a Java program to convert a string to an integer ?
+
+Solution :- 
 
 Question 19 --> Write a Java program to convert seconds to hour, minute and seconds ?
 
+Solution :- 
+
 Question 20 --> Write a Java program to compute the sum of the first 100 prime numbers ?
+
+Solution :- 
 
 Question 21 --> Write a Java program to swap the first and last elements of an array and create a new array ?
 
+Solution :- 
+
 Question 22 --> Write a Java program to count the number of even and odd elements in a given array ?
+
+Solution :- 
 
 Question 23 --> Write a Java program to compute the square root of an given integer ?
 
+Solution :- 
+
 Question 24 --> Write a Java program to check if a positive number is a palindrome or not ?
+
+Solution :- 
 
 Question 25 --> Write a Java program to add two numbers without using any arithmetic operators ?
 
+Solution :- 
+
 Question 26 --> Write a Java program to add all the digits of a given positive integer ?
 
+Solution :- 
