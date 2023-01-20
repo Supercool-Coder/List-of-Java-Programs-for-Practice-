@@ -32,7 +32,7 @@ Solution :- ![image](https://user-images.githubusercontent.com/70787564/21374055
 
 Question 6 --> Write a Java program to swap two variables ?
 
-Solution :- ![image](https://user-images.githubusercontent.com/70787564/213744472-e2c8152a-ee79-473e-97c2-6c8ce109db60.png)
+Solution :- ![image](https://user-images.githubusercontent.com/70787564/213745090-b069ebed-0582-4baa-8f0b-789dd708526e.png)
 
 Question 7 --> Write a Java program to convert a decimal number to binary numbers ?
 
