@@ -13,12 +13,17 @@ Question 1 --> Write a Java program to print ‘Hello World!’ on screen ?
 Solution:- ![image](https://user-images.githubusercontent.com/70787564/213730896-b47e5902-2654-45f8-bb9b-c0db2c45193f.png)
 
 Question 2 --> Write a Java program to print the sum of two numbers ?
+
 Solution :- ![image](https://user-images.githubusercontent.com/70787564/213730787-1f220e83-6430-49eb-93f5-1ab4783206a6.png)
 
 Question 3 --> Write a Java program that takes two numbers and display the product of two numbers ?
+
 Solution :- ![image](https://user-images.githubusercontent.com/70787564/213730497-16c9445b-5ebc-4c5f-8161-abcd2b3983a7.png)
 
 Question 4 --> Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers ?
+
+Solution :- ![image](https://user-images.githubusercontent.com/70787564/213734677-34ebabe1-662d-4f3e-8ecb-8431dd80dfe1.png)
+
 
 Question 5 --> Write a Java program that takes five numbers as input to calculate and print the average of the numbers ?
 
