@@ -10,6 +10,7 @@ Basic Java programs Practice | Java Coding Practice with examples
 
 
 Question 1 --> Write a Java program to print ‘Hello World!’ on screen ?
+
 Solution:- ![image](https://user-images.githubusercontent.com/70787564/213730896-b47e5902-2654-45f8-bb9b-c0db2c45193f.png)
 
 Question 2 --> Write a Java program to print the sum of two numbers ?
@@ -22,7 +23,7 @@ Solution :- ![image](https://user-images.githubusercontent.com/70787564/21373049
 
 Question 4 --> Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers ?
 
-Solution :- ![image](https://user-images.githubusercontent.com/70787564/213734677-34ebabe1-662d-4f3e-8ecb-8431dd80dfe1.png)
+Solution :- ![image](https://user-images.githubusercontent.com/70787564/213736217-b9a3fafe-c3de-43ff-9819-b800c71dec85.png)
 
 
 Question 5 --> Write a Java program that takes five numbers as input to calculate and print the average of the numbers ?
